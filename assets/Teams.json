@@ -1,0 +1,42 @@
+[
+  {
+    "name": "GDG Ahemedabad",
+    "image": "Images/gdg_ahm.jpeg"
+  },
+  {
+    "name": "GDG Bangalore",
+    "image": "Images/gdg_bnglr.jpeg"
+  },
+  {
+    "name": "GDG Kolkata",
+    "image": "Images/gdg_img.jpeg"
+  },
+  {
+    "name": "GDG New Delhi",
+    "image": "Images/gdg_delhi.JPG"
+  },
+  {
+    "name": "GDG Ranchi",
+    "image": "Images/ranchi.jpeg"
+  },
+  {
+    "name": "GDG Hyderabad",
+    "image": "Images/gdg_hbd.jpg"
+  },
+  {
+    "name": "GDG Bhubaneswar",
+    "image": "Images/gdg_bbsr.jpg"
+  },
+  {
+    "name": "GDG Pune",
+    "image": "Images/gdg_pune.jpeg"
+  },
+  {
+    "name": "GDG Patna",
+    "image": "Images/gdg_patna.png"
+  },
+  {
+    "name": "GDG Jaipur",
+    "image": "Images/gdg_jaipur.jpg"
+  }
+]
